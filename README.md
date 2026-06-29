@@ -48,8 +48,8 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <ссылка_на_репозиторий>
-cd <название_репозитория>
+git clone <(https://github.com/Kalecor/flight-delays)>
+cd <flight-delays>
 ```
 
 ---
